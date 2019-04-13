@@ -1,18 +1,18 @@
-// .cb-slideshow li:nth-child(1) span { background-image: url('https://ws2.sinaimg.cn/large/005ODKsIgw1fakb435nz6j31hc0u079l.jpg');}
+/* // .cb-slideshow li:nth-child(1) span { background-image: url('https://ws2.sinaimg.cn/large/005ODKsIgw1fakb435nz6j31hc0u079l.jpg');}
 // .cb-slideshow li:nth-child(2) span { background-image: url('https://ws4.sinaimg.cn/large/005ODKsIgw1fam24cqyo4j31cq0yfjxa.jpg');}
 // .cb-slideshow li:nth-child(3) span { background-image: url('https://ws4.sinaimg.cn/large/005ODKsIgw1fatjhgja0gj31hc0xvagk.jpg');}
 // .cb-slideshow li:nth-child(4) span { background-image: url('https://ws4.sinaimg.cn/large/005ODKsIgw1fajzncs9apj31hc11x0yw.jpg');}
 // .cb-slideshow li:nth-child(5) span { background-image: url('https://ws1.sinaimg.cn/large/005ODKsIgw1f5ymp3mngpj31hc0xcdiu.jpg');}
-// .cb-slideshow li:nth-child(6) span { background-image: url('https://ws1.sinaimg.cn/large/005ODKsIgw1fam1v0u0n0j31hc0xcjxc.jpg');}
+// .cb-slideshow li:nth-child(6) span { background-image: url('https://ws1.sinaimg.cn/large/005ODKsIgw1fam1v0u0n0j31hc0xcjxc.jpg');} */
 
-.cb-slideshow li:nth-child(1) span { background-image: url('http://wx1.sinaimg.cn/large/dc58f491ly1fepnoqji5aj20xc0qqgt5.jpg');}
-.cb-slideshow li:nth-child(2) span { background-image: url('http://wx1.sinaimg.cn/large/dc58f491ly1fepmxueo9tj21jk10ugwc.jpg');}
-.cb-slideshow li:nth-child(3) span { background-image: url('http://wx4.sinaimg.cn/large/dc58f491ly1fepmxv27yfj20sg0hsjww.jpg');}
-.cb-slideshow li:nth-child(4) span { background-image: url('http://wx3.sinaimg.cn/large/dc58f491ly1fepmxvp7b1j20zk0qotcp.jpg');}
-.cb-slideshow li:nth-child(5) span { background-image: url('http://wx1.sinaimg.cn/large/dc58f491ly1fepmxwdysjj21400p0wli.jpg');}
-.cb-slideshow li:nth-child(6) span { background-image: url('http://wx1.sinaimg.cn/large/dc58f491ly1fepmxx2ja5j20zk0qotek.jpg');}
+.cb-slideshow li:nth-child(1) span { background-image: url('http://ppvs11f4z.bkt.clouddn.com/72e71e0b0c7dd4c2738dc1686eae5f82.jpg');}
+.cb-slideshow li:nth-child(2) span { background-image: url('http://ppvs11f4z.bkt.clouddn.com/2134ce33b1aedb2369db13b1525796b6.jpeg');}
+.cb-slideshow li:nth-child(3) span { background-image: url('http://ppvs11f4z.bkt.clouddn.com/111017ee290aac8034cd14d7f2c4f1db.jpg');}
+.cb-slideshow li:nth-child(4) span { background-image: url('http://ppvs11f4z.bkt.clouddn.com/af987d1c2ffd6fa761c482648a5dca5a.jpg');}
+.cb-slideshow li:nth-child(5) span { background-image: url('http://ppvs11f4z.bkt.clouddn.com/de254cd38638385947eeb2e84e284f6f.jpg');}
+.cb-slideshow li:nth-child(6) span { background-image: url('http://ppvs11f4z.bkt.clouddn.com/fa9d47a7322befc11eedb38d47a6cd44.jpg');}
 
-.hidden-xs{
+.hidden-xs{ 
 
 }
 
