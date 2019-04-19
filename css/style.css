@@ -840,7 +840,7 @@ body {
   visibility: hidden;
 }
 body {
-  font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
   cursor: url("images/icon.png"), default;
 }
@@ -1138,9 +1138,9 @@ body {
 .nav-icon {
   font-family: FontAwesome;
   text-align: center;
-  font-size: 14px;
-  width: 14px;
-  height: 14px;
+  font-size: 11px;
+  width: 11px;
+  height: 11px;
   padding: 20px 15px;
   position: relative;
   cursor: pointer;
@@ -1381,7 +1381,7 @@ a.article-title:hover {
   text-align: left;
 }
 .article-entry blockquote footer {
-  font-size: 14px;
+  font-size: 11px;
   margin: 1.6em 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -1914,7 +1914,7 @@ a.article-title:hover {
   padding: 15px 20px;
   overflow: auto;
   color: #ccc;
-  line-height: 22.400000000000002px;
+  line-height: 17.6px;
 }
 .line {
   color: #ccc;
@@ -1973,7 +1973,7 @@ a.article-title:hover {
   padding-right: 20px;
 }
 .article-entry .highlight .line {
-  height: 22.400000000000002px;
+  height: 17.6px;
 }
 .article-entry .highlight .line.marked {
   background: #515151;
